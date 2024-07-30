@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @SharmaaDiksha
+# 👋 Hi, I’m Diksha Sharma ( @SharmaaDiksha )
 
 ![Automation Enthusiast](https://img.shields.io/badge/Automation-Enthusiast-brightgreen)
 ![DevOps Lover](https://img.shields.io/badge/DevOps-Lover-blue)
